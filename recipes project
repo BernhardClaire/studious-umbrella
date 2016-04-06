@@ -1,8 +1,15 @@
 <!doctype html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <title> best recipes </title>
 </head>
+
 <body>
+
+<!--I'm sorry I've written it all in french because it was too long for me to translate everything in english. But that gives me the 
+occasion to try comments -->
+
     <h1> La blanquette de veau facile</h1>
     <h3>Ingédients nécessaires pour 4 personnes :</h3>
     <ul>
